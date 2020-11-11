@@ -2,11 +2,13 @@
 Projeto de controle de estágio feito para o programa de estágio da Az.
 
 
-DESAFIO
+**DESAFIO**
+
 Você deverá criar um simples sistema que atenda à todos os requisitos de negócio
 e técnicos.
 
-PROBLEMA
+**PROBLEMA**
+
 Karen é responsável por contratar novos estagiários para a empresa onde trabalha.
 Ela utiliza o email para receber os dados solicitados aos estagiários interessados na
 vaga.
@@ -16,10 +18,11 @@ O problema é que Karen recebe muitos emails além dos enviados pelos estagiári
 e isso deixa sua caixa de entrada bastante desorganizada. Agora ela precisa ficar
 pesquisando na sua conta todos os emails que possuem o assunto “Estágio”.
 
-O QUE DEVERÁ SER FEITO:
+**O QUE DEVERÁ SER FEITO:**
 Criar um sistema onde Karen possa criar, listar, editar e deletar as informações dos
 estagiários interessados nas vagas.
-Requisitos:
+
+*Requisitos:*
 - O estagiário deve conter os atributos
 - Nome
 - Email
@@ -42,6 +45,8 @@ e Front em Vuejs.
 
 ● Seu front-end deve ser responsivo para qualquer tela
 
+**SOLUÇÃO**
+Esse projeto foi desenvolvido utilizando Spring Boot juntamente com o Postgress
 
 API DO BACKEND:
 https://apirest-controle.herokuapp.com/swagger-ui.html#/controle-resource/listaEstagiariosUnicoUsingGET
