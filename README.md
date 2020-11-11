@@ -20,21 +20,26 @@ O QUE DEVERÁ SER FEITO:
 Criar um sistema onde Karen possa criar, listar, editar e deletar as informações dos
 estagiários interessados nas vagas.
 Requisitos:
-● O estagiário deve conter os atributos
-○ Nome
-○ Email
-○ Telefone
-○ Foto
-○ Comprovante de matrícula
-○ Áreas de interesse
-○ Áreas de domínio
+- O estagiário deve conter os atributos
+- Nome
+- Email
+- Telefone
+- Foto
+- Comprovante de matrícula
+- Áreas de interesse
+- Áreas de domínio
 
 ● Você deverá desenvolver uma solução WEB com a API Rest em Spring Boot
 e Front em Vuejs.
+
 ● É necessário persistir todas informações
+
 ● Você poderá usar qualquer SGBD que julgar melhor
+
 ● Queremos como resultado uma solução simples, legível e de qualidade
+
 ● Seja criativo. Você decide como as informações serão exibidas no front-end
+
 ● Seu front-end deve ser responsivo para qualquer tela
 
 
