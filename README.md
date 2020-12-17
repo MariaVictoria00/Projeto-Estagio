@@ -52,4 +52,8 @@ API DO BACKEND:
 https://apirest-controle.herokuapp.com/swagger-ui.html#/controle-resource/listaEstagiariosUnicoUsingGET
  
 **REQUISITOS PARA O PROGRAMA RODAR**
-Baixar o  PostgreSql 
+
+
+- Baixar o PostgreSql 
+
+
