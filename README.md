@@ -50,3 +50,6 @@ Esse projeto foi desenvolvido utilizando Spring Boot juntamente com o Postgress
 
 API DO BACKEND:
 https://apirest-controle.herokuapp.com/swagger-ui.html#/controle-resource/listaEstagiariosUnicoUsingGET
+ 
+**REQUISITOS PARA O PROGRAMA RODAR**
+Baixar o  PostgreSql 
